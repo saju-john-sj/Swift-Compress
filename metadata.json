@@ -1,0 +1,6 @@
+{
+  "name": "V-Compress",
+  "description": "Fast, privacy-focused video compressor that works entirely in your browser. No server uploads required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
